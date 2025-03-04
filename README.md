@@ -11,7 +11,7 @@ I'm **Jason Goliath**, a passionate **Test Analyst** with a background in IT sup
 
 ### 🚀 What I Do  
 - ✅ **Manual & Automated Testing**: Ensuring high-quality software through **API, UI, and functional testing**  
-- 🛠 **Tech Stack**: Postman, Tricentis Tosca, Rest Assured, Jira, Qmetry, SQL, and more  
+- 🛠 **Tech Stack**: Postman, Tricentis Tosca, Rest Assured, Jira, Qmetry, SQL, Python Flask Framework, Pytest, and Robotframework 
 - 🔎 **Problem-Solving**: Finding and fixing bugs to improve software reliability  
 - 🤝 **Collaboration**: Working with teams to **meet deadlines and deliver top-notch solutions**  
 
