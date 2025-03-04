@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Jason Goliath**, a passionate **Test Analyst** with a background in IT support, software testing, and system integration. My journey started from humble beginnings in customer service, working my way into the world of technology, where I found my love for **software testing, automation, and problem-solving**.  
+I'm **Jason Goliath**, a passionate **Test Analyst** with a background in IT support, software testing, and system integration. My journey started from humble beginnings in customer service, working my way into the world of technology, where I found my love for **software testing, automation, and problem-solving and web development**.  
 
 ### 👨‍💻 About Me  
 - 🔍 **Current Role**: Test Analyst at **Automation Exchange (AEX)**  
